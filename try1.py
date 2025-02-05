@@ -413,7 +413,7 @@ class DocumentProcessor:
 
 def main():
     # Initialize with your API key
-    processor = DocumentProcessor(api_key="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")
+    processor = DocumentProcessor(api_key="")
     
     # Process files from Google Drive
     folder_id = "1P9A5ER5wa4yO2BCKzOdMA_AfDi7L8Sy_"
