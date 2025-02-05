@@ -1,1 +1,1 @@
-# Brochure-Assistant
+# brochure_chatbot
