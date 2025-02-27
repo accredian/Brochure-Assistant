@@ -1,0 +1,15 @@
+streamlit
+openai
+torch
+faiss-cpu
+groq
+pytesseract
+pdf2image
+PyPDF2
+Pillow
+numpy
+google-api-python-client
+google-auth
+google-auth-oauthlib
+sentence-transformers
+load_dotenv
